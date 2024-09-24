@@ -15,6 +15,9 @@ class MainActivity : AppCompatActivity() {
 //this is a comment
     //mauybt
     //woeds
+    //more stuff
+    //just typing
+    //only to type
     private lateinit var appBarConfiguration: AppBarConfiguration
     private lateinit var binding: ActivityMainBinding
 
