@@ -12,7 +12,9 @@ import android.view.MenuItem
 import com.example.introsession.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
-
+//this is a comment
+    //mauybt
+    //woeds
     private lateinit var appBarConfiguration: AppBarConfiguration
     private lateinit var binding: ActivityMainBinding
 
